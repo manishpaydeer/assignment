@@ -1,0 +1,22 @@
+.main_heading{
+color: rgb(16, 122, 192);
+}
+
+label{
+    display: inline-block;
+    text-align: left;
+    /* width: 50% !important; */
+    cursor: pointer;
+    font-weight: bold;
+}
+
+input[type=radio]{
+    width: 5%;
+}
+
+.description{
+margin-top: 2px;
+font-size: 14px;
+font-weight: 500;
+color: rgb(49, 49, 49);
+}
